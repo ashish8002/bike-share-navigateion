@@ -52,7 +52,8 @@
 
 ## Tools Chosen
 
-I have chosen Microsoft Excel for this analysis due to its robust data manipulation capabilities, user-friendly interface, and powerful features for cleaning, sorting, and analyzing data. Excel is particularly suitable for handling CSV files, and its features such as filtering, conditional formatting, and pivot tables are highly effective for this type of exploratory data analysis.
+1. I have chosen Microsoft Excel for this analysis due to its robust data manipulation capabilities, user-friendly interface, and powerful features for cleaning, sorting, and analyzing data. Excel is particularly suitable for handling CSV files, and its features such as filtering, conditional formatting, and pivot tables are highly effective for this type of exploratory data analysis.
+2. For Vizualization Tablue has been choosen.
 
 ## Ensuring Data Integrity
 
